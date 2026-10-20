@@ -1,0 +1,5 @@
+---
+title: "Stat 0000"
+---
+
+[Lecture 1 - Intro](slides/01-intro.qmd)

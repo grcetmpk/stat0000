@@ -1,0 +1,20 @@
+---
+title: "01-intro"
+format: revealjs
+---
+
+## Intro
+
+Welcome to the course!
+
+Here's a list:
+
+-  item 1
+
+-  item 2 
+
+-  item 3
+
+## Syllabus
+
+sljfhslkjhfksdj
