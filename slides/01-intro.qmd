@@ -1,7 +1,10 @@
 ---
 title: "01-intro"
-format: revealjs
+format: live-revealjs
+engine: knitr
 ---
+
+{{< include ../_extensions/r-wasm/live/_knitr.qmd >}} 
 
 ## Intro
 
@@ -18,3 +21,17 @@ Here's a list:
 ## Syllabus
 
 sljfhslkjhfksdj
+
+
+## Data Exploration
+
+```{webr}
+
+# here's how you look at the first 6 rows of the data
+
+head(mtcars)
+
+```
+
+
+
